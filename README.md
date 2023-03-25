@@ -1,2 +1,0 @@
-# TestCurd
-ok
